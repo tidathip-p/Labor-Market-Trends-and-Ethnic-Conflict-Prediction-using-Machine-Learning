@@ -8,7 +8,6 @@ This research is a self-initiated project conducted under the guidance of a rese
 
 ## 📈 Current Status
 🟡 Literatyre review draft (refining)
-
 🟢 Methodology draft   
 🟢 Data collection & cleaning  
 🔴 Model building  
