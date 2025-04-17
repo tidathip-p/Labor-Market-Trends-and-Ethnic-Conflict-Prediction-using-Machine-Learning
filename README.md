@@ -7,11 +7,10 @@ This research is a self-initiated project conducted under the guidance of a rese
 - Programming Language: Python
 
 ## 📈 Current Status
-🟡 Literatyre review draft (refining)
+🟡 Literature review draft (refining)
 🟢 Methodology draft   
 🟢 Data collection & cleaning  
-🔴 Model building  
-🔴 Evaluation & robustness tests
+🔴 Model building, evaluation & robustness tests
 
 ## 📰 Data Sources
 - Background Features
