@@ -7,7 +7,7 @@ This research is a self-initiated project conducted under the guidance of a rese
 - Programming Language: Python
 
 ## 📈 Current Status
-🟡 Literatyre review draft: Refining
+🟡 Literatyre review draft (refining)
 🟢 Methodology draft   
 🟢 Data collection & cleaning  
 🔴 Model building  
